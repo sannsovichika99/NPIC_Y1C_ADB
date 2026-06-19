@@ -1,2 +1,1 @@
-const name = "nita";
-console.log(name);
+console.log("Hello, World!");
